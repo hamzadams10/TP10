@@ -1,4 +1,4 @@
-#include "gradconj.h"
+#include "matrix.h"
 
 double* Grad_Conjug(double** A, double* b, double* x_k, int dim, double epsilon) 
 {   
